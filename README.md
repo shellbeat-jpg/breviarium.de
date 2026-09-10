@@ -18,34 +18,35 @@ It is built on the XTC Modified shop system (2011), now known as Modified Ecomme
 
 The daily update pipeline is cron-driven and uses recursive hidden endpoints.
 
-```mermaid
-flowchart TD
-  C[cron1.sh .. cron7.sh] --> T1[temp_1.php .. temp_7.php]
-  T1 --> S[arrSteps.php price chapters]
-  T1 --> G[getOffersFromPriceAndNode()]
-  G --> A[Amazon ECS API]
-  A --> P[products]
-  A --> PD[products_description]
-  A --> PC[products_to_categories]
-  A --> AC[amazonCreator]
-  A --> AO[amazonOffers]
+```text
+hidden/cron1.sh ... hidden/cron7.sh
+    -> hidden/temp_1.php ... hidden/temp_7.php
+    -> hidden/includes/functions.php:getOffersFromPriceAndNode()
+    -> Amazon ECS/API
+    -> writes:
+       - products
+       - products_description
+       - products_to_categories
+       - amazonCreator
+       - amazonOffers
 
-  EO[Eurobuch feed] --> X[inc/xtc_eurobuch.inc.php]
-  X --> AO
-  X -->|Platform| AO
-  X -->|EurobuchID| AO
-  X -->|AbeBooks id| AO
+inc/xtc_eurobuch.inc.php (Eurobuch aggregator)
+    -> marketplace offers (incl. AbeBooks/Buchfreund/others)
+    -> tags/mappings (Platform, EurobuchID, AbeBooks id)
+    -> amazonOffers
 
-  AB[hidden/abebooks.php\nhidden/getAbeBooksFeed.php] --> AO
-  BF[hidden/getOffersFromBuchfreund.php\ncheckBuchfreundItemsFromISBN.php\ngetRssFeed.php] --> BFT[buchfreund staging]
-  BFT --> AO
+hidden/abebooks.php + hidden/getAbeBooksFeed.php
+    -> AbeBooks side path
+    -> amazonOffers
 
-  AO --> V[storefront offer display]
-  V --> PROD[includes/classes/product.php]
+hidden/getOffersFromBuchfreund.php (and related Buchfreund scripts)
+    -> Buchfreund side path / staging
+    -> amazonOffers
 
-  MX[hidden/makeXselling.php] --> XS[products_xsell]
-  UP[hidden/copy.php maintenance] --> MX
-  UP --> CLEAN[duplicate cleanup / price refresh]
+hidden/copy.php (maintenance)
+    -> hidden/makeXselling.php
+hidden/makeXselling.php
+    -> products_xsell
 ```
 
 ### Amazon import
