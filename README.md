@@ -18,6 +18,36 @@ It is built on the XTC Modified shop system (2011), now known as Modified Ecomme
 
 The daily update pipeline is cron-driven and uses recursive hidden endpoints.
 
+```mermaid
+flowchart TD
+  C[cron1.sh .. cron7.sh] --> T1[temp_1.php .. temp_7.php]
+  T1 --> S[arrSteps.php price chapters]
+  T1 --> G[getOffersFromPriceAndNode()]
+  G --> A[Amazon ECS API]
+  A --> P[products]
+  A --> PD[products_description]
+  A --> PC[products_to_categories]
+  A --> AC[amazonCreator]
+  A --> AO[amazonOffers]
+
+  EO[Eurobuch feed] --> X[inc/xtc_eurobuch.inc.php]
+  X --> AO
+  X -->|Platform| AO
+  X -->|EurobuchID| AO
+  X -->|AbeBooks id| AO
+
+  AB[hidden/abebooks.php\nhidden/getAbeBooksFeed.php] --> AO
+  BF[hidden/getOffersFromBuchfreund.php\ncheckBuchfreundItemsFromISBN.php\ngetRssFeed.php] --> BFT[buchfreund staging]
+  BFT --> AO
+
+  AO --> V[storefront offer display]
+  V --> PROD[includes/classes/product.php]
+
+  MX[hidden/makeXselling.php] --> XS[products_xsell]
+  UP[hidden/copy.php maintenance] --> MX
+  UP --> CLEAN[duplicate cleanup / price refresh]
+```
+
 ### Amazon import
 
 Cron wrappers (`hidden/cron1.sh` through `hidden/cron7.sh`) call:
