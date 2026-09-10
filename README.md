@@ -20,32 +20,40 @@ The daily update pipeline is cron-driven and uses recursive hidden endpoints.
 
 ```mermaid
 flowchart TD
-  C[cron1.sh .. cron7.sh] --> T1[temp_1.php .. temp_7.php]
-  T1 --> S[arrSteps.php price chapters]
-  T1 --> G[getOffersFromPriceAndNode()]
-  G --> A[Amazon ECS API]
-  A --> P[products]
-  A --> PD[products_description]
-  A --> PC[products_to_categories]
-  A --> AC[amazonCreator]
-  A --> AO[amazonOffers]
+  C[hidden/cron1.sh ... hidden/cron7.sh] --> T[hidden/temp_1.php ... hidden/temp_7.php]
+  T --> S[hidden/arrSteps.php]
+  T --> G[hidden/includes/functions.php:getOffersFromPriceAndNode]
+  G --> API[api/aws_signed_request.php + api/amazon_api_class.php]
+  G --> P[products]
+  G --> PD[products_description]
+  G --> PTC[products_to_categories]
+  G --> AC[amazonCreator]
+  G --> AO[amazonOffers]
+  G --> CD[categories_data*]
 
-  EO[Eurobuch feed] --> X[inc/xtc_eurobuch.inc.php]
-  X --> AO
-  X -->|Platform| AO
-  X -->|EurobuchID| AO
-  X -->|AbeBooks id| AO
-
-  AB[hidden/abebooks.php\nhidden/getAbeBooksFeed.php] --> AO
-  BF[hidden/getOffersFromBuchfreund.php\ncheckBuchfreundItemsFromISBN.php\ngetRssFeed.php] --> BFT[buchfreund staging]
+  E[inc/xtc_eurobuch.inc.php + hidden/includes/functions.php Eurobuch handlers] --> AO
+  AB[hidden/abebooks.php + hidden/getAbeBooksFeed.php] --> AO
+  AB --> PEAN[products.EAN]
+  BF[hidden/getOffersFromBuchfreund.php + hidden/checkBuchfreundItemsFromISBN.php + hidden/getRssFeed.php] --> BFT[buchfreund]
   BFT --> AO
 
-  AO --> V[storefront offer display]
-  V --> PROD[includes/classes/product.php]
-
   MX[hidden/makeXselling.php] --> XS[products_xsell]
-  UP[hidden/copy.php maintenance] --> MX
-  UP --> CLEAN[duplicate cleanup / price refresh]
+  AO --> VIEW[includes/classes/product.php (EurobuchID = 0 default offer view)]
+```
+
+```mermaid
+flowchart LR
+  AMZ[Amazon path: hidden/temp_1.php ... hidden/temp_7.php + getOffersFromPriceAndNode] -->|Platform='Amazon'\nEurobuchID=0| AO[amazonOffers]
+
+  EUR[Eurobuch path: inc/xtc_eurobuch.inc.php + hidden/includes/functions.php Eurobuch handlers] -->|Platform=marketplace\nEurobuchID>0| AO
+
+  ABE[hidden/abebooks.php + hidden/getAbeBooksFeed.php] -->|id_abebooks enrichment| AO
+
+  BFR[hidden/getOffersFromBuchfreund.php + hidden/checkBuchfreundItemsFromISBN.php + hidden/getRssFeed.php] --> BF[buchfreund]
+  BF -->|matched/imported offers| AO
+
+  AO -->|id_amazon link| P[products]
+  AO --> Q[includes/classes/product.php query (EurobuchID = 0)]
 ```
 
 ### Amazon import
