@@ -1,0 +1,1 @@
+&chapter=40&STEP=0.2&k=0&c=1700&limit=10&page=14&MinimumPrice=41.2

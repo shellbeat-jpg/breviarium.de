@@ -1,0 +1,534 @@
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:03:50--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=78&limit=0&page=1&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=79&limit=0&page=2&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:03:52--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=79&limit=0&page=2&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=80&limit=0&page=3&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:03:53--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=80&limit=0&page=3&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=81&limit=0&page=4&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:03:55--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=81&limit=0&page=4&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=82&limit=0&page=5&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:03:57--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=82&limit=0&page=5&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 "wget-log"
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=83&limit=0&page=6&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:03:59--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=83&limit=0&page=6&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=84&limit=0&page=7&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:00--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=84&limit=0&page=7&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=85&limit=0&page=8&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:02--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=85&limit=0&page=8&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=86&limit=0&page=9&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:03--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=86&limit=0&page=9&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=87&limit=0&page=10&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:05--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=87&limit=0&page=10&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=88&limit=0&page=11&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:06--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=88&limit=0&page=11&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=89&limit=0&page=12&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:07--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=89&limit=0&page=12&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=90&limit=0&page=13&MinimumPrice=45 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:09--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=90&limit=0&page=13&MinimumPrice=45
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=91&limit=0&page=1&MinimumPrice=45.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:12--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=91&limit=0&page=1&MinimumPrice=45.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=92&limit=0&page=2&MinimumPrice=45.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:13--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=92&limit=0&page=2&MinimumPrice=45.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=93&limit=0&page=3&MinimumPrice=45.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:15--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=93&limit=0&page=3&MinimumPrice=45.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=94&limit=0&page=4&MinimumPrice=45.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:18--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=94&limit=0&page=4&MinimumPrice=45.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=95&limit=0&page=5&MinimumPrice=45.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:20--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=95&limit=0&page=5&MinimumPrice=45.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=96&limit=0&page=6&MinimumPrice=45.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:21--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=96&limit=0&page=6&MinimumPrice=45.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=97&limit=0&page=1&MinimumPrice=46 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:24--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=97&limit=0&page=1&MinimumPrice=46
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=98&limit=0&page=2&MinimumPrice=46 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:25--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=98&limit=0&page=2&MinimumPrice=46
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=99&limit=0&page=3&MinimumPrice=46 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:26--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=99&limit=0&page=3&MinimumPrice=46
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=100&limit=0&page=4&MinimumPrice=46 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:28--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=100&limit=0&page=4&MinimumPrice=46
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=101&limit=0&page=5&MinimumPrice=46 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:29--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=101&limit=0&page=5&MinimumPrice=46
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=102&limit=0&page=6&MinimumPrice=46 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:30--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=102&limit=0&page=6&MinimumPrice=46
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=103&limit=0&page=1&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:33--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=103&limit=0&page=1&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=104&limit=0&page=2&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:35--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=104&limit=0&page=2&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=105&limit=0&page=3&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:36--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=105&limit=0&page=3&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=106&limit=0&page=4&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:38--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=106&limit=0&page=4&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=107&limit=0&page=5&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:39--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=107&limit=0&page=5&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=108&limit=0&page=6&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:42--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=108&limit=0&page=6&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=109&limit=0&page=7&MinimumPrice=46.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:44--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=109&limit=0&page=7&MinimumPrice=46.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=110&limit=0&page=1&MinimumPrice=47 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:47--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=110&limit=0&page=1&MinimumPrice=47
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=111&limit=0&page=2&MinimumPrice=47 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:49--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=111&limit=0&page=2&MinimumPrice=47
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=112&limit=0&page=3&MinimumPrice=47 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:50--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=112&limit=0&page=3&MinimumPrice=47
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=113&limit=0&page=4&MinimumPrice=47 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:52--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=113&limit=0&page=4&MinimumPrice=47
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=114&limit=0&page=5&MinimumPrice=47 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:53--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=114&limit=0&page=5&MinimumPrice=47
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=115&limit=0&page=1&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:56--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=115&limit=0&page=1&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=116&limit=0&page=2&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:57--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=116&limit=0&page=2&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=117&limit=0&page=3&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:58--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=117&limit=0&page=3&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=118&limit=0&page=4&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:04:59--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=118&limit=0&page=4&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=119&limit=0&page=5&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:01--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=119&limit=0&page=5&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=120&limit=0&page=6&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:02--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=120&limit=0&page=6&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=121&limit=0&page=7&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:04--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=121&limit=0&page=7&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=122&limit=0&page=8&MinimumPrice=47.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:05--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=122&limit=0&page=8&MinimumPrice=47.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=123&limit=0&page=1&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:08--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=123&limit=0&page=1&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=124&limit=0&page=2&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:11--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=124&limit=0&page=2&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=125&limit=0&page=3&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:13--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=125&limit=0&page=3&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=126&limit=0&page=4&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:14--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=126&limit=0&page=4&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=127&limit=0&page=5&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:16--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=127&limit=0&page=5&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=128&limit=0&page=6&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:17--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=128&limit=0&page=6&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=129&limit=0&page=7&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:19--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=129&limit=0&page=7&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=130&limit=0&page=8&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:20--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=130&limit=0&page=8&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=131&limit=0&page=9&MinimumPrice=48 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:21--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=131&limit=0&page=9&MinimumPrice=48
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=132&limit=0&page=1&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:24--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=132&limit=0&page=1&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=133&limit=0&page=2&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:25--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=133&limit=0&page=2&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=134&limit=0&page=3&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:26--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=134&limit=0&page=3&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=135&limit=0&page=4&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:28--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=135&limit=0&page=4&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=136&limit=0&page=5&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:29--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=136&limit=0&page=5&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=137&limit=0&page=6&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:30--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=137&limit=0&page=6&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=138&limit=0&page=7&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:32--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=138&limit=0&page=7&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=139&limit=0&page=8&MinimumPrice=48.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:34--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=139&limit=0&page=8&MinimumPrice=48.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=140&limit=0&page=1&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:37--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=140&limit=0&page=1&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=141&limit=0&page=2&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:38--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=141&limit=0&page=2&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=142&limit=0&page=3&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:40--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=142&limit=0&page=3&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=143&limit=0&page=4&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:41--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=143&limit=0&page=4&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=144&limit=0&page=5&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:42--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=144&limit=0&page=5&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=145&limit=0&page=6&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:44--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=145&limit=0&page=6&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=146&limit=0&page=7&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:45--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=146&limit=0&page=7&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=147&limit=0&page=8&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:47--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=147&limit=0&page=8&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=148&limit=0&page=9&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:48--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=148&limit=0&page=9&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=149&limit=0&page=10&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:50--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=149&limit=0&page=10&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=150&limit=0&page=11&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:52--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=150&limit=0&page=11&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=151&limit=0&page=12&MinimumPrice=49 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:53--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=151&limit=0&page=12&MinimumPrice=49
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=152&limit=0&page=1&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:56--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=152&limit=0&page=1&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=153&limit=0&page=2&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:56--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=153&limit=0&page=2&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=154&limit=0&page=3&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:58--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=154&limit=0&page=3&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=155&limit=0&page=4&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:05:59--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=155&limit=0&page=4&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=156&limit=0&page=5&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:01--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=156&limit=0&page=5&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=157&limit=0&page=6&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:02--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=157&limit=0&page=6&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=158&limit=0&page=7&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:04--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=158&limit=0&page=7&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=159&limit=0&page=8&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:05--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=159&limit=0&page=8&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=160&limit=0&page=9&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:07--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=160&limit=0&page=9&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=161&limit=0&page=10&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:09--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=161&limit=0&page=10&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=162&limit=0&page=11&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:11--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=162&limit=0&page=11&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=163&limit=0&page=12&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:12--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=163&limit=0&page=12&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=164&limit=0&page=13&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:14--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=164&limit=0&page=13&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=165&limit=0&page=14&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:16--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=165&limit=0&page=14&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=166&limit=0&page=15&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:17--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=166&limit=0&page=15&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=167&limit=0&page=16&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:19--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=167&limit=0&page=16&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=168&limit=0&page=17&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:20--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=168&limit=0&page=17&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=169&limit=0&page=18&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:22--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=169&limit=0&page=18&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=170&limit=0&page=19&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:23--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=170&limit=0&page=19&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=171&limit=0&page=20&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:25--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=171&limit=0&page=20&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=172&limit=0&page=21&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:27--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=172&limit=0&page=21&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=173&limit=0&page=22&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:29--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=173&limit=0&page=22&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=174&limit=0&page=23&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:30--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=174&limit=0&page=23&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=175&limit=0&page=24&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:32--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=175&limit=0&page=24&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=176&limit=0&page=25&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:34--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=176&limit=0&page=25&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=177&limit=0&page=26&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:36--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=177&limit=0&page=26&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=178&limit=0&page=27&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:38--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=178&limit=0&page=27&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=179&limit=0&page=28&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:39--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=179&limit=0&page=28&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=180&limit=0&page=29&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:41--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=180&limit=0&page=29&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=181&limit=0&page=30&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:43--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=181&limit=0&page=30&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=182&limit=0&page=31&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:45--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=182&limit=0&page=31&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=183&limit=0&page=32&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:47--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=183&limit=0&page=32&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=184&limit=0&page=33&MinimumPrice=49.5 [following]
+Spider mode enabled. Check if remote file exists.
+--2011-09-21 19:06:49--  http://buch.breviarium.de/hidden/temp_1.php?&chapter=40&STEP=0.5&k=0&c=184&limit=0&page=33&MinimumPrice=49.5
+Connecting to buch.breviarium.de|46.252.18.67|:80... connected.
+HTTP request sent, awaiting response... 

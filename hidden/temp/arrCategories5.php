@@ -1,0 +1,46 @@
+<?php
+
+$arrCategories=array();
+$arrCategories[] = 298002;
+$arrCategories[] = 1199902;
+$arrCategories[] = 340584031;
+$arrCategories[] = 340602031;
+$arrCategories[] = 340585031;
+$arrCategories[] = 340591031;
+$arrCategories[] = 340611031;
+$arrCategories[] = 340616031;
+$arrCategories[] = 340603031;
+$arrCategories[] = 340592031;
+$arrCategories[] = 15745011;
+$arrCategories[] = 660716;
+$arrCategories[] = 290517;
+$arrCategories[] = 290518;
+$arrCategories[] = 290519;
+$arrCategories[] = 1071748;
+$arrCategories[] = 3354231;
+$arrCategories[] = 655708;
+$arrCategories[] = 290520;
+$arrCategories[] = 3181201;
+$arrCategories[] = 290521;
+$arrCategories[] = 3118971;
+$arrCategories[] = 290522;
+$arrCategories[] = 423939031;
+$arrCategories[] = 423933031;
+$arrCategories[] = 660912;
+$arrCategories[] = 660920;
+$arrCategories[] = 720220;
+$arrCategories[] = 280653;
+$arrCategories[] = 280870;
+$arrCategories[] = 280999;
+$arrCategories[] = 3470881;
+$arrCategories[] = 281026;
+$arrCategories[] = 280666;
+$arrCategories[] = 280667;
+$arrCategories[] = 280686;
+$arrCategories[] = 280737;
+$arrCategories[] = 280857;
+$arrCategories[] = 280886;
+$arrCategories[] = 281008;
+$arrCategories[] = 502644;
+$arrCategories[] = 1102710;
+?>
